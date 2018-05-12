@@ -1,0 +1,42 @@
+_repo: The-Hunter-Cats-of-Connorloa_28385
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jackson, Helen Hunt
+    aliases:
+    - Jackson, H. H. (Helen Hunt)
+    - Holm, Saxe
+    - Hunt, Helen Maria Fiske
+    - Jackson, Helen Maria Fiske Hunt
+    birthdate: 1830
+    deathdate: 1885
+    gutenberg_agent_id: '1030'
+    url: http://www.gutenberg.org/2009/agents/1030
+    wikipedia: http://en.wikipedia.org/wiki/Helen_Hunt_Jackson
+description: ''
+gutenberg_issued: '2009-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28385'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'California -- Juvenile fiction'
+- !lcsh 'Natural history -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Hunting -- Juvenile fiction'
+- !lcsh 'Cats -- Juvenile fiction'
+- !lcsh 'Sick -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'National characteristics, Chinese -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+title: The Hunter Cats of Connorloa
+url: http://www.gutenberg.org/ebooks/28385
