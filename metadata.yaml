@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1030
     wikipedia: http://en.wikipedia.org/wiki/Helen_Hunt_Jackson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28385#The-Hunter-Cats-of-Connorloa
 gutenberg_issued: '2009-03-22'
 gutenberg_type: Text
 identifiers:
